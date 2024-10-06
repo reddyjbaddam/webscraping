@@ -23,7 +23,7 @@ This project is a web scraper designed to extract buy and sell prices from the S
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/steam-market-scraper.git
+git https://github.com/reddyjbaddam/webscraping.git
 cd steam-market-scraper
 
 ENV:
